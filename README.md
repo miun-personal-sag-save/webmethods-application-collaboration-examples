@@ -1,4 +1,6 @@
-# Containerized Application Collaboration Examples for WebMethods
+# DISCONTINUED Containerized Application Collaboration Examples for WebMethods
+
+# This repo will likely be moved under github.com/IBM. Stay tuned...
 
 ## Overview
 
